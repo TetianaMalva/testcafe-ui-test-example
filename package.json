@@ -1,0 +1,13 @@
+{
+    "name": "testcafe-ui-test-example",
+    "version": "1.0.0",
+    "description": "TestCafe UI test",
+    "main": "zoover_test.js",
+    "scripts": {
+        "test": "zoover_test.js"
+    },
+    "homepage": "https://github.com/TetianaMalva/testcafe-ui-test-example",
+    "devDependencies": {
+        "testcafe": "*"
+    }
+}
